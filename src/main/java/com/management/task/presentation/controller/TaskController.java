@@ -2,10 +2,8 @@ package com.management.task.presentation.controller;
 
 import com.management.task.business.dto.TaskDto;
 import com.management.task.business.dto.TaskRequest;
-import com.management.task.business.exceptions.TaskNotFoundException;
 import com.management.task.business.service.TaskService;
 import jakarta.validation.Valid;
-import jakarta.websocket.server.PathParam;
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
