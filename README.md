@@ -1,4 +1,4 @@
-#Management Google Events
+# Management Google Events
 
 This is a Spring Boot application that allows users to manage Google Calendar events.
 
